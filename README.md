@@ -1,5 +1,5 @@
 # wedev-repo
 
-First thing
+First thing and second thing
 
 ## new branch changeds
